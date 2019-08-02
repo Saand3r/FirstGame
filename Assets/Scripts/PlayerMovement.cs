@@ -10,13 +10,16 @@ public class PlayerMovement : MonoBehaviour
     public float forwardForce = 2000f;
     public float sidewaysForce = 500f;
     public float jumpForce = 500f;
+    //public Animator animator;
 
     // Update is called once per frame
     void FixedUpdate()
     {
         rb.AddForce(0, 0, forwardForce * Time.deltaTime);
 
-        if( Input.GetKey("d") )
+        //animator.SetFloat("Speed", Mathf.Abs(sidewaysForce));
+
+        if (Input.GetKey("d"))
         {
             rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }

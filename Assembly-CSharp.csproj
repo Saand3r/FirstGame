@@ -66,8 +66,10 @@
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\LevelComplete.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\PlayerCollision.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovements.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/sande/jklhgkjhkllkmlkmn/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
