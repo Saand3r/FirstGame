@@ -4,7 +4,7 @@ Hello and welcome to my first ever game!
 -----------
 RUN MyFirstGame.exe, enjoy!
 
-![Logo](public/CUBESMASH_gameplay.png)
+![Logo](CUBESMASH_gameplay.png)
 
 
 THINGS TO ADD
