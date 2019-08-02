@@ -10,8 +10,8 @@ RUN MyFirstGame.exe, enjoy!
 
 THINGS TO ADD
 -----------
-- Menu at ESC
+- ~~Menu at ESC
 - Music
 - Fix jumping
-- Make more maps
+- ~~Make more maps
 - idk
