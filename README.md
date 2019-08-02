@@ -4,6 +4,9 @@ HOW TO PLAY
 -----------
 RUN MyFirstGame.exe, enjoy!
 
+![GitHub Logo](/public/CUBESMASH_gameplay.png)
+Format: ![Alt Text](url)
+
 THINGS TO ADD
 -----------
 - Menu at ESC
