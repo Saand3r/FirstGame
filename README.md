@@ -1,10 +1,10 @@
 Hello and welcome to my first ever game!
 
-HOW TO PLAY
+**HOW TO PLAY**
 -----------
 RUN MyFirstGame.exe, enjoy!
 
-![Logo](/public/CUBESMASH_gameplay.png)
+![Logo](public/CUBESMASH_gameplay.png)
 
 
 THINGS TO ADD
